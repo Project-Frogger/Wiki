@@ -20,8 +20,18 @@ _Здесь будет TOC директорий вики_
 
 ### Как происходит сейчас
 
-WIP
+Ниже представлена AS IS модель процесса, который мы планируем автоматизировать:
+
+![image](https://user-images.githubusercontent.com/85339045/163034294-e472c6ba-5319-40f7-8021-26a4ccde1979.png)
+
+![image](https://user-images.githubusercontent.com/85339045/163034401-b57b3d7d-2d85-4d1a-992c-8ce95e16d5f8.png)
+
+![image](https://user-images.githubusercontent.com/85339045/163034641-4940ec05-30ea-427a-8f8f-51b63a00c233.png)
+
+![image](https://user-images.githubusercontent.com/85339045/163034662-72569a9c-51f2-4fbf-a58c-4f36e3785894.png)
+
+![image](https://user-images.githubusercontent.com/85339045/163034679-24cb9687-5535-4189-a046-870bf3fc2f0f.png)
 
 ### Как будет (и что уже есть)
 
-WIP
+
