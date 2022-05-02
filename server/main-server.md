@@ -2,6 +2,8 @@
 
 [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](https://github.com/Project-Frogger/Wiki)
 
+<button name="button" onclick="http://www.google.com" style="background-color:red">Главная</button>
+
 ## Информация о cервере
 
 **Параметры**: 1 ядро процессора, 2 Гб оперативной памяти, 40 Гб диска, 1 IP-адрес
