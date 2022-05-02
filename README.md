@@ -1,5 +1,9 @@
-_Здесь будет TOC директорий вики_
+**Содержание базы знаний:**
 
+- [Конфигурация сервера](https://github.com/Project-Frogger/Wiki/blob/main/server/main-server.md)
+  - [Начальная настройка](https://github.com/Project-Frogger/Wiki/blob/main/server/start-config.md)
+  - [Перенос сайта](https://github.com/Project-Frogger/Wiki/blob/main/server/site-migration.md)
+- WIP
 ## Обзор проекта
 
 ### Введение
