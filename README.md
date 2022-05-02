@@ -113,3 +113,5 @@ _2. При нажатии кнопки `Сохранить` происходит
 _3. Запись публикуется, если в карточке выбран пункт `Опубликовано?`_
 
 **С полным интерактивным макетом плагина можно ознакомиться [здесь](https://www.figma.com/proto/TXm86pkiun9Sf7NkPUoxER/Untitled?page-id=402%3A5&node-id=405%3A67&viewport=241%2C48%2C0.11&scaling=contain&starting-point-node-id=405%3A67).**
+
+[![to-start](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-start.png?raw=true)](#)
