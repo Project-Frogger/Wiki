@@ -297,9 +297,7 @@ server {
         index index.php index.html index.htm index.nginx-debian.html;
         server_name example.com;
 
-        location / {
-                try_files $uri $uri/ =404;
-        }
+        location / {try_files $uri $uri/ /index.html /index.php?$args;}
 
         location ~ \.php$ {
                 include snippets/fastcgi-php.conf;
