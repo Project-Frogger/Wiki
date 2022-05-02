@@ -1,6 +1,6 @@
 # Начальная конфигурация
 
-[![back](..\img\common\back.png)](..\README.md) [![back](..\img\common\to-main.png)](..\README.md)
+[![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](..\README.md) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](..\README.md)
 
 **Содержание:**
 
@@ -70,7 +70,7 @@ less /etc/passwd
 
 Она открывает `/etc/passwd`, в котором и содержится информация о локальных пользователях. Этот файл содержит следующую информацию:
 
-![show](..\img\server\start-config\1.png)
+![show](https://github.com/Project-Frogger/Wiki/blob/main/img/server/start-config/1.png?raw=true)
 
 1. Имя пользователя
 2. Зашифрованный пароль (`x` значит, что пароль хранится в файле `/etc/shadow`)
@@ -102,7 +102,7 @@ root@pfrogger:~# sudo apt install nginx
 
 Если установка прошла корректно, то при попадании на сервер через браузер (для чего нужно ввести его ip-адрес или доменное имя в адресную строку) будет выведено сообщение:
 
-![img](..\img\server\start-config\2.png)
+![img](https://github.com/Project-Frogger/Wiki/blob/main/img/server/start-config/2.png?raw=true)
 
 ### 2.2 Установка MySQL
 
@@ -368,7 +368,7 @@ phpinfo();
 
 В случае, когда все работает корректно, этот код будет возвращать информацию о сервере на странице `your_server_domain_or_IP/info.php`:
 
-![img](..\img\server\start-config\3.png)
+![img](https://github.com/Project-Frogger/Wiki/blob/main/img/server/start-config/3.png?raw=true)
 
 Если на странице есть конфигурация сервера, то обработка PHP с помощью Nginx была реализована успешно.
 
@@ -378,4 +378,4 @@ phpinfo();
 root@pfrogger:~# sudo rm /var/www/html/info.php
 ```
 
-[![back](..\img\common\to-start.png)](#) [![back](..\img\common\back.png)](..\README.md) [![back](..\img\common\to-main.png)](..\README.md)
+[![to-start](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-start.png?raw=true)](#) [![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](..\README.md) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](..\README.md)
