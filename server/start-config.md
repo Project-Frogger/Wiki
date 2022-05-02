@@ -1,10 +1,10 @@
-# Начальная конфигурация
+# Начальная настройка
 
-[![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](https://github.com/Project-Frogger/Wiki) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](https://github.com/Project-Frogger/Wiki)
+[![next](https://github.com/Project-Frogger/Wiki/blob/main/img/common/next.png?raw=true)](https://github.com/Project-Frogger/Wiki/blob/main/server/site-migration.md) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](https://github.com/Project-Frogger/Wiki/blob/main/server/main-server.md)
 
 **Содержание:**
 
-- [Начальная конфигурация](#начальная-конфигурация)
+- [Начальная настройка](#начальная-настройка)
   - [1. Создание пользователя с административными привилегиями](#1-создание-пользователя-с-административными-привилегиями)
     - [1.1 Создание пользователя](#11-создание-пользователя)
     - [1.2 Предоставление административных прав](#12-предоставление-административных-прав)
@@ -378,4 +378,4 @@ phpinfo();
 root@pfrogger:~# sudo rm /var/www/html/info.php
 ```
 
-[![to-start](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-start.png?raw=true)](#) [![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](https://github.com/Project-Frogger/Wiki) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](https://github.com/Project-Frogger/Wiki)
+[![to-start](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-start.png?raw=true)](#) [![next](https://github.com/Project-Frogger/Wiki/blob/main/img/common/next.png?raw=true)](https://github.com/Project-Frogger/Wiki/blob/main/server/site-migration.md) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](https://github.com/Project-Frogger/Wiki/blob/main/server/main-server.md)
