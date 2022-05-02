@@ -1,6 +1,6 @@
 # Начальная конфигурация
 
-[![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](..\README.md) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](..\README.md)
+[![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](https://github.com/Project-Frogger/Wiki) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](https://github.com/Project-Frogger/Wiki)
 
 **Содержание:**
 
@@ -378,4 +378,4 @@ phpinfo();
 root@pfrogger:~# sudo rm /var/www/html/info.php
 ```
 
-[![to-start](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-start.png?raw=true)](#) [![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](..\README.md) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](..\README.md)
+[![to-start](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-start.png?raw=true)](#) [![back](https://github.com/Project-Frogger/Wiki/blob/main/img/common/back.png?raw=true)](https://github.com/Project-Frogger/Wiki) [![to-main](https://github.com/Project-Frogger/Wiki/blob/main/img/common/to-main.png?raw=true)](https://github.com/Project-Frogger/Wiki)
